@@ -1,0 +1,8 @@
+E:\OneDrive\Workspace\1---- Source Code\GoToDesktop\StartMenu\StartMenu\StartMenu\bin\Debug\StartMenu.exe.config
+E:\OneDrive\Workspace\1---- Source Code\GoToDesktop\StartMenu\StartMenu\StartMenu\bin\Debug\StartMenu.exe
+E:\OneDrive\Workspace\1---- Source Code\GoToDesktop\StartMenu\StartMenu\StartMenu\bin\Debug\StartMenu.pdb
+E:\OneDrive\Workspace\1---- Source Code\GoToDesktop\StartMenu\StartMenu\StartMenu\obj\Debug\StartMenu.csprojResolveAssemblyReference.cache
+E:\OneDrive\Workspace\1---- Source Code\GoToDesktop\StartMenu\StartMenu\StartMenu\obj\Debug\StartMenu.Properties.Resources.resources
+E:\OneDrive\Workspace\1---- Source Code\GoToDesktop\StartMenu\StartMenu\StartMenu\obj\Debug\StartMenu.csproj.GenerateResource.Cache
+E:\OneDrive\Workspace\1---- Source Code\GoToDesktop\StartMenu\StartMenu\StartMenu\obj\Debug\StartMenu.exe
+E:\OneDrive\Workspace\1---- Source Code\GoToDesktop\StartMenu\StartMenu\StartMenu\obj\Debug\StartMenu.pdb
